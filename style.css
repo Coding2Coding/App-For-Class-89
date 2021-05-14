@@ -1,0 +1,36 @@
+body
+{
+	background: lightskyblue;
+}
+
+	.loginDiv1 , .loginDiv2
+	{
+		background: white;
+		padding: 14px;
+		float: none;
+		border-radius: 20px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 40%;
+}
+#word_display
+{
+	letter-spacing: 4px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid dodgerblue;
+padding: 10px;
+float: none;
+text-align: left;
+}
